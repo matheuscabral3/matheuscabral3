@@ -4,7 +4,7 @@
 #### Olá 👋
 
 - :computer: Formado em Gestão de TI, em busca de oportunidades e colaborações em projetos relacionados ao Desenvolvimento Web.
-- :book: Atualmente estou desenvolvendo habilidades com ASP.NET, HTML5, CSS3 e Javascript.
+- :book: HTML5, CSS3, JS, jQuery, SQL Server, .NET, .NET CORE, C#, ASP MVC, Angular, TypeScript, VB.NET, bootstrap
 
 ----
 
