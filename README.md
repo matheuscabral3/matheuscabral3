@@ -1,5 +1,5 @@
 ### Matheus Mendes Cabral  :wave: <br>
-### Atualmente sou Desenvolvedor .NET Jr. <br>
+### Atualmente sou Desenvolvedor Fullstack Jr | .NET <br>
 
 #### Olá 👋
 
